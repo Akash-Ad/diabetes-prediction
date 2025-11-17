@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Python egg info
+*.egg-info/
+
+# Logs
+*.log
+
+# Notebook metadata
+*.checkpoint.ipynb
